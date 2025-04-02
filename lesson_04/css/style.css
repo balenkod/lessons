@@ -1,0 +1,81 @@
+
+/* body {
+        font-family: "Carme", sans-serif;
+        color: rgb(0, 0, 0);
+        font-weight: 600;
+        font-style: normal;
+      }       */
+
+body {
+        font-family: KoPubBatang, sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        font-style: italic;
+      }
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  font-style: normal;
+  font-weight: 600;
+}
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  color: brown;
+  font-style: initial;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  color: rgb(7, 56, 28);
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 600;
+  font-size: 35px;
+  color: rgb(88, 14, 158);
+  text-align: left;
+  text-shadow: 2px 2px 5px #000, 5px -2px 10px red;
+}
+
+h4 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:  40px;
+  color: rgb(139, 94, 34);
+  text-decoration: overline;
+  text-shadow: 2px 2px 5px #000, 5px -2px 10px red;
+text-transform: lowercase;
+}
+
+p.one {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-shadow: 2px 2px 5px #000, 5px 2px 10px rgb(39, 180, 122);
+}
+
+p.twoo {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(7, 63, 63);
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+p.three {
+  font-family: "Carme", sans-serif;
+  color: rgb(219, 137, 14);
+  letter-spacing: 3px;
+}
+
+p.foure {
+  color: rgb(146, 19, 89);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: normal;
+  letter-spacing: 5px;
+}
